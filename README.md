@@ -7,7 +7,7 @@
 
 Skills: HTML/CSS/Tailwind CSS/Bootstrap/JS/React/C
 
-- 🔭 I’m currently working on Creative IT Academy as a Web Designer 
+- 🔭 I’m recently working on Creative IT Academy as a Web Designer 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
