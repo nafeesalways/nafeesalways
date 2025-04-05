@@ -1,7 +1,7 @@
-(https://media.licdn.com/dms/image/v2/D4D03AQHWxylc_NBBRA/profile-displayphoto-shrink_200_200/B4DZOQw1FqHQAc-/0/1733300540687?e=1749081600&v=beta&t=voJcBJIMiz451QVJYyyOH3VLzLh_WHu9-YdjyaH4KsM)
-# Hi there 👋, I am Samiul Kabir
-# Junior Web Developer
-![Junior Web Developer]
+![Junior Web Developer](https://media.licdn.com/dms/image/v2/D4D03AQHWxylc_NBBRA/profile-displayphoto-shrink_200_200/B4DZOQw1FqHQAc-/0/1733300540687?e=1749081600&v=beta&t=voJcBJIMiz451QVJYyyOH3VLzLh_WHu9-YdjyaH4KsM)
+### Hi there 👋, I am Samiul Kabir
+#### Junior Web Developer
+
 
  Passionate about building responsive websites with HTML, CSS, JavaScript, and Tailwind CSS. Currently learning React and exploring real-world projects to sharpen my skills. Always open to collaboration and learning opportunities!
 
@@ -27,6 +27,8 @@ Skills: HTML/CSS/Tailwind CSS/Bootstrap/JS/React/C
 ![GitHub metrics](https://metrics.lecoq.io/nafeesalways)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=nafeesalways)  
+
+
 
 
 
