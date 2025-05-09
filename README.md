@@ -5,10 +5,10 @@
 
  Passionate about building responsive websites with HTML, CSS, JavaScript, and Tailwind CSS. Currently learning React and exploring real-world projects to sharpen my skills. Always open to collaboration and learning opportunities!
 
-Skills: HTML/CSS/Tailwind CSS/Bootstrap/JS/React/C
+Skills: HTML/CSS/Tailwind CSS/Bootstrap/JS/React/Firebase/Node js/C
 
 - 🔭 I’m recently working on Creative IT Academy as a Web Designer 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React and beside Node js.
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: Here: https://www.linkedin.com/in/samiul-kabir-11177333a/ 
