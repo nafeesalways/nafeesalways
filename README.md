@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/samiul-kabir-11177333a/**
 
-- 📄 Know about my experiences [Recently Working with Creative IT Academy,Chittagong,Bangladesh](Recently Working with Creative IT Academy,Chittagong,Bangladesh)
+- 📄 Know about my experiences [Recently Working with Creative IT Academy,Chittagong,Bangladesh]
 
 - ⚡ Fun fact **I am funny and chill😄**
 
