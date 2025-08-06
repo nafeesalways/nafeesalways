@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafeesalways&label=Profile%20views&color=0e75b6&style=flat" alt="nafeesalways" /> </p>
 
-- 🌱 I’m currently learning **Node js and React**
+- 🌱 I’m currently learning **NextJs And Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nafeesalways](https://github.com/nafeesalways)
 
