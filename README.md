@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafeesalways&label=Profile%20views&color=0e75b6&style=flat" alt="nafeesalways" /> </p>
 
 - 🌱 I’m currently exploring **NextJs And Redux**
-- 
 - 🌍 I’m currently Working **Modern Website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nafeesalways](https://github.com/nafeesalways)
