@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **https://www.linkedin.com/in/samiul-kabir-11177333a/**
+- 📫 How to reach me **https://www.linkedin.com/in/samiul-kabir-dev/**
 
 - 📄 Know about my experiences [Recently Working with Creative IT Academy,Chittagong,Bangladesh]
 
