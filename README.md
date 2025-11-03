@@ -1,88 +1,97 @@
-![logo](https://github.com/nafeesalways/nafeesalways/blob/main/banner1.png)
-<h1 align="center">Hi 👋, I'm Samiul Kabir</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Textile Engineer</h3>
-<img align='right'alt = 'coding' width='400' src='https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966'
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nafeesalways&label=Profile%20views&color=0e75b6&style=flat" alt="nafeesalways" /> </p>
-
-### 🚀 About Me  
-- 🌱 Currently advancing my skills in **Next.js** and **Redux** to develop high-performance, scalable web applications.  
-- 🌍 Dedicated to creating **modern, responsive, and user-friendly digital experiences**.  
-- 👨‍💻 Explore my work: [GitHub Portfolio](https://github.com/nafeesalways)  
-- 💬 Open to discussions on **Frontend Development, React, Tailwind CSS, and the MERN Stack**.  
-- 📄 Recently contributed to multiple client projects at **Creative IT Academy, Chittagong, Bangladesh**.  
-- ⚡ Fun fact: I balance creativity with precision — delivering solutions that are both **innovative** and **effective**.  
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/samiul kabir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samiul kabir" height="30" width="40" /></a>
-<a href="https://fb.com/samiul kabir nafeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samiul kabir nafeez" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github.com/nafeesalways/nafeesalways/blob/main/banner1.png" alt="Banner" width="100%">
+  
+  # Hi there, I'm Samiul Kabir 👋
+  
+  ### Frontend Developer | MERN Stack Specialist | Textile Engineer
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=nafeesalways&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nafeesalways)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samiul-kabir)
+  [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/samiul-kabir-nafeez)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:samiulnafeez@gmail.com)
+  
+</div>
 
 ---
 
-### 📞 Contact Me
-- 📧 **Email:** samiulnafeez@gmail.com  
-- 📱 **Phone:** +880 1533865826 
+## 👨‍💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://tanstack.com/query" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-header.png" alt="tanstack-query" width="40" height="40"/> 
-  </a> 
-</p>
+I'm a passionate Frontend Developer with expertise in building modern, scalable web applications using the MERN stack. With a unique background in Textile Engineering, I bring a blend of technical precision and creative problem-solving to every project.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafeesalways&show_icons=true&locale=en&layout=compact" alt="nafeesalways" /></p>
+- 🚀 Currently mastering **Next.js** and **Redux** for enterprise-level applications
+- 🎯 Focused on creating **responsive, accessible, and performant** user experiences
+- 💼 Contributing to client projects at **Creative IT Academy, Chittagong, Bangladesh**
+- 🌟 Building solutions that balance **innovation** with **practical effectiveness**
+- 📚 Always learning and exploring new technologies in the web development ecosystem
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nafeesalways&show_icons=true&locale=en" alt="nafeesalways" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafeesalways&" alt="nafeesalways" /></p>
+## 🛠️ Tech Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=flat&logo=react-query&logoColor=white)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+
+### Development & Deployment Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafeesalways&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nafeesalways&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafeesalways&theme=radical&hide_border=true" alt="GitHub Streak" width="600">
+</div>
+
+---
+
+## 💼 Featured Projects
+
+Check out my portfolio of projects showcasing modern web development practices, clean code, and user-centric design:
+
+- 🛒 **FreshKeep** - Food expiry tracker with smart notifications (Next.js, MongoDB, Tailwind CSS)
+- 💳 **Payment Integration** - Stripe & SSLCommerz implementation for e-commerce solutions
+- 🎨 **Interactive UI Components** - Reusable React components with Framer Motion & Lottie animations
+
+👉 [View All Projects](https://github.com/nafeesalways?tab=repositories)
+
+---
+
+## 📫 Get In Touch
+
+I'm always open to discussing new opportunities, collaborations, or interesting projects!
+
+- 📧 **Email:** [samiulnafeez@gmail.com](mailto:samiulnafeez@gmail.com)
+- 📱 **Phone:** +880 1533865826
+- 💼 **LinkedIn:** [Samiul Kabir](https://linkedin.com/in/samiul-kabir)
+- 🌐 **Portfolio:** [GitHub](https://github.com/nafeesalways)
+
+
