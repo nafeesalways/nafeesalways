@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Frontend Developer with expertise in building modern, scalable web applications using the MERN stack. With a unique background in Textile Engineering, I bring a blend of technical precision and creative problem-solving to every project.
+I'm a passionate Frontend Developer with expertise in building modern, scalable web applications using the MERN stack. With a unique background in Textile Engineering, I bring a blend of technical precision and creative problem-solving to every project[web:11][web:15].
 
 - 🚀 Currently mastering **Next.js** and **Redux** for enterprise-level applications
 - 🎯 Focused on creating **responsive, accessible, and performant** user experiences
@@ -52,12 +52,10 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 
-### Development & Deployment Tools
+### Development & Deployment
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
 
 ---
 
@@ -76,19 +74,43 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 
 ## 💼 Featured Projects
 
-Check out my portfolio of projects showcasing modern web development practices, clean code, and user-centric design:
+### 🛒 FreshKeep - Food Expiry Tracker
+A comprehensive food inventory management system with smart expiry notifications and real-time tracking[web:17][web:19].
 
-- 🛒 **FreshKeep** - Food expiry tracker with smart notifications (Next.js, MongoDB, Tailwind CSS)
-- 💳 **Payment Integration** - Stripe & SSLCommerz implementation for e-commerce solutions
-- 🎨 **Interactive UI Components** - Reusable React components with Framer Motion & Lottie animations
+**Tech Stack:** Next.js | MongoDB | Tailwind CSS | Framer Motion
 
-👉 [View All Projects](https://github.com/nafeesalways?tab=repositories)
+**Key Features:**
+- Smart notification system for expiring items
+- Real-time inventory management dashboard
+- Responsive design with modern UI/UX
+
+### 💳 E-Commerce Payment Integration
+Secure payment gateway implementation supporting multiple payment methods for seamless transactions[web:15][web:19].
+
+**Tech Stack:** React | Node.js | Express | Stripe & SSLCommerz
+
+**Key Features:**
+- Multi-currency payment support
+- Secure transaction handling with JWT
+- Comprehensive error handling and logging
+
+### 🎨 Interactive Component Library
+Reusable React components featuring smooth animations and transitions for modern web applications[web:14][web:17].
+
+**Tech Stack:** React | Framer Motion | Lottie | Tailwind CSS
+
+**Key Features:**
+- 20+ customizable components
+- Smooth animations and micro-interactions
+- Fully documented with usage examples
+
+👉 **[View All Projects](https://github.com/nafeesalways?tab=repositories)**
 
 ---
 
 ## 📫 Get In Touch
 
-I'm always open to discussing new opportunities, collaborations, or interesting projects!
+I'm always open to discussing new opportunities, collaborations, or interesting projects[web:15][web:19]!
 
 - 📧 **Email:** [samiulnafeez@gmail.com](mailto:samiulnafeez@gmail.com)
 - 📱 **Phone:** +880 1533865826
