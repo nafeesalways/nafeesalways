@@ -92,7 +92,7 @@ I'm always open to discussing new opportunities, collaborations, or interesting 
 
 - 📧 **Email:** [samiulnafeez@gmail.com](mailto:samiulnafeez@gmail.com)
 - 📱 **Phone:** +880 1533865826
-- 💼 **LinkedIn:** [Samiul Kabir](https://linkedin.com/in/samiul-kabir)
+- 💼 **LinkedIn:** [Samiul Kabir](https://linkedin.com/in/samiul-kabir-dev)
 - 🌐 **Portfolio:** [GitHub](https://github.com/nafeesalways)
 
 
