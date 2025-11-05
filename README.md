@@ -77,7 +77,7 @@ I'm a passionate Frontend Developer with expertise in building modern, scalable 
 ### 🛒 FreshKeep - Food Expiry Tracker
 A comprehensive food inventory management system with smart expiry notifications and real-time tracking[web:17][web:19].
 
-**Tech Stack:** Next.js | MongoDB | Tailwind CSS | Framer Motion
+**Tech Stack:** React.js | MongoDB | Tailwind CSS | Framer Motion
 
 **Key Features:**
 - Smart notification system for expiring items
