@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/nafeesalways/nafeesalways/blob/main/banner1.png" alt="Banner" width="100%">
   
-  # Hi there, I'm Samiul Kabir 👋
+  # Hi there, I'm Samiul Kabir Nafees 👋
   
   ### Frontend Developer | MERN Stack Specialist | Textile Engineer
   
@@ -18,7 +18,7 @@
 
 I'm a passionate Frontend Developer with expertise in building modern, scalable web applications using the MERN stack. With a unique background in Textile Engineering, I bring a blend of technical precision and creative problem-solving to every project[web:11][web:15].
 
-- 🚀 Currently mastering **Next.js** and **Redux** for enterprise-level applications
+- 🚀 Currently Working as a MERN Stack Developer at Softriple Inc.
 - 🎯 Focused on creating **responsive, accessible, and performant** user experiences
 - 💼 Contributing to client projects at **Creative IT Academy, Chittagong, Bangladesh**
 - 🌟 Building solutions that balance **innovation** with **practical effectiveness**
